@@ -1,0 +1,15 @@
+D:\Пше\Examples\QSem2\bin\Debug\net6.0\QSem2.exe
+D:\Пше\Examples\QSem2\bin\Debug\net6.0\QSem2.deps.json
+D:\Пше\Examples\QSem2\bin\Debug\net6.0\QSem2.runtimeconfig.json
+D:\Пше\Examples\QSem2\bin\Debug\net6.0\QSem2.dll
+D:\Пше\Examples\QSem2\bin\Debug\net6.0\QSem2.pdb
+D:\Пше\Examples\QSem2\obj\Debug\net6.0\QSem2.csproj.AssemblyReference.cache
+D:\Пше\Examples\QSem2\obj\Debug\net6.0\QSem2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Пше\Examples\QSem2\obj\Debug\net6.0\QSem2.AssemblyInfoInputs.cache
+D:\Пше\Examples\QSem2\obj\Debug\net6.0\QSem2.AssemblyInfo.cs
+D:\Пше\Examples\QSem2\obj\Debug\net6.0\QSem2.csproj.CoreCompileInputs.cache
+D:\Пше\Examples\QSem2\obj\Debug\net6.0\QSem2.dll
+D:\Пше\Examples\QSem2\obj\Debug\net6.0\refint\QSem2.dll
+D:\Пше\Examples\QSem2\obj\Debug\net6.0\QSem2.pdb
+D:\Пше\Examples\QSem2\obj\Debug\net6.0\QSem2.genruntimeconfig.cache
+D:\Пше\Examples\QSem2\obj\Debug\net6.0\ref\QSem2.dll
